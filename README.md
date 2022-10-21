@@ -7,10 +7,19 @@ But proctoring has always been a task and cheating and unfair practices have alw
 
 #CLICK THE FOLLOWING LINKS TO SEE DESIGN
 https://github.com/jaybee21/ONLINEPROCTOR/blob/main/Des.png
+
+
 https://github.com/jaybee21/ONLINEPROCTOR/blob/main/Landing3.png
+
+
 https://github.com/jaybee21/ONLINEPROCTOR/blob/main/login.png
+
+
 https://github.com/jaybee21/ONLINEPROCTOR/blob/main/login.png
+
+
 https://github.com/jaybee21/ONLINEPROCTOR/blob/main/ongoingexam.png
+
 https://github.com/jaybee21/ONLINEPROCTOR/blob/main/terminated%20exam.png
 
 The current solutions assumes to have 2 platforms 
