@@ -4,6 +4,7 @@ Problem we are trying to solve?
 Due to Covid 19, remote learning has been a constant and so have been online examinations.
 But proctoring has always been a task and cheating and unfair practices have always been a problem.
 **Problems with the exisiting sytem?**
+
 #CLICK THE FOLLOWING LINKS TO SEE DESIGN
 
 The current solutions assumes to have 2 platforms 
