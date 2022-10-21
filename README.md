@@ -11,6 +11,7 @@ The current solutions assumes to have 2 platforms
 
 Our PS poses to develop an application that can automatically proctor and monitor students, without the need of manual proctoring - ie without a teacher's aid.
 
+https://github.com/jaybee21/ONLINEPROCTOR/blob/main/Screenshot%20(241).png
 ### Market & User Research
 
 - On market research, the products available found, are paid.
