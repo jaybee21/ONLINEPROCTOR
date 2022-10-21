@@ -4,6 +4,7 @@ Problem we are trying to solve?
 Due to Covid 19, remote learning has been a constant and so have been online examinations.
 But proctoring has always been a task and cheating and unfair practices have always been a problem.
 **Problems with the exisiting sytem?**
+#CLICK THE FOLLOWING LINKS TO SEE DESIGN
 
 The current solutions assumes to have 2 platforms 
 - One for testing purposes like Google Form for writing exams 
@@ -11,7 +12,7 @@ The current solutions assumes to have 2 platforms
 
 Our PS poses to develop an application that can automatically proctor and monitor students, without the need of manual proctoring - ie without a teacher's aid.
 
-https://github.com/jaybee21/ONLINEPROCTOR/blob/main/Screenshot%20(241).png
+
 ### Market & User Research
 
 - On market research, the products available found, are paid.
