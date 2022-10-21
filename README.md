@@ -21,6 +21,8 @@ Our PS poses to develop an application that can automatically proctor and monito
 
 The tradeoff in a Hackathon: `Speed over quality`
 
+
+
 But something that we are proud of is, we tried to follow ideal software development practices.
 
 - Architecture
