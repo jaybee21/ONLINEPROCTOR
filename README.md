@@ -5,22 +5,10 @@ Due to Covid 19, remote learning has been a constant and so have been online exa
 But proctoring has always been a task and cheating and unfair practices have always been a problem.
 **Problems with the exisiting sytem?**
 
-#CLICK THE FOLLOWING LINKS TO SEE DESIGN
-https://github.com/jaybee21/ONLINEPROCTOR/blob/main/Des.png
-
-
-https://github.com/jaybee21/ONLINEPROCTOR/blob/main/Landing3.png
-
-
-https://github.com/jaybee21/ONLINEPROCTOR/blob/main/login.png
-
-
-https://github.com/jaybee21/ONLINEPROCTOR/blob/main/login.png
-
-
-https://github.com/jaybee21/ONLINEPROCTOR/blob/main/ongoingexam.png
-
-https://github.com/jaybee21/ONLINEPROCTOR/blob/main/terminated%20exam.png
+![Design](https://i.ibb.co/cJmYmg1/landing-2.png)
+![Design](https://i.ibb.co/c1H4M2Q/Landing3.png)
+![Design](https://i.ibb.co/GsHjnhV/Des.png)
+![Design](https://i.ibb.co/0r6XjFc/landingdesign.png)
 
 The current solutions assumes to have 2 platforms 
 - One for testing purposes like Google Form for writing exams 
