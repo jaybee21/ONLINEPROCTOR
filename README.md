@@ -6,8 +6,17 @@ But proctoring has always been a task and cheating and unfair practices have alw
 **Problems with the exisiting sytem?**
 
 ![Design](https://i.ibb.co/cJmYmg1/landing-2.png)
+
+
+
 ![Design](https://i.ibb.co/c1H4M2Q/Landing3.png)
+
+
+
 ![Design](https://i.ibb.co/GsHjnhV/Des.png)
+
+
+
 ![Design](https://i.ibb.co/0r6XjFc/landingdesign.png)
 
 The current solutions assumes to have 2 platforms 
